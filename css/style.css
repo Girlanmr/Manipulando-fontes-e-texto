@@ -4,3 +4,25 @@
 }
 /* Comentario no CSS
 */
+div.artigo{
+    width: 1280px;
+    background-color: rgb(200,200,200);
+    padding: 40px;
+    margin: 40px auto;
+    text-align: center;
+}
+div.artigo h2{
+    color: #0568f2;
+    font-size: 35px;
+    font-family:Tahoma;
+    font-weight: normal;
+}
+div.artigo p{
+    font-size: 20px;
+    font-style: normal;
+    font-family: tahoma;
+    font-weight: bold;
+    color: blueviolet;
+    margin-top: 12px;
+    
+}
